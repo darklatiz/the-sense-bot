@@ -1,0 +1,5 @@
+rootProject.name = 'the-sense-bot'
+
+include 'commonLibrary'
+include 'producer'
+include 'consumer'
