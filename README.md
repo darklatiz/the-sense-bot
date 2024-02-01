@@ -126,7 +126,7 @@ Remember to replace **./gradlew** with **gradlew.bat** on Windows if you're usin
 As we can see here after running **Build and run the Application**
 
 In this image we can see that app is started on port **8080**
-- ![Application Started](complete/producer/images/Starting_application.png)
+- ![Application Started](images/Starting_application.png)
 
 In this image we can see Kafka consumers have been assigned a partition
-- ![img.png](complete/producer/images/KafkaStarted.png)
+- ![img.png](images/KafkaStarted.png)
