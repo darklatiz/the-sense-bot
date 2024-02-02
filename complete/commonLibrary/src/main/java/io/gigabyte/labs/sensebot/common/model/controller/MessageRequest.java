@@ -9,7 +9,6 @@ public record MessageRequest(
   Integer numberOfMessages,
   @JsonProperty("sleep_milliseconds")
   int sleep,
-
   @JsonProperty("queue_type")
   String queue
 
