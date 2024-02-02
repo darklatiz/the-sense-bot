@@ -27,7 +27,7 @@ dependencies {
 
 	implementation 'org.apache.commons:commons-lang3:3.14.0'
 	// https://mvnrepository.com/artifact/com.h2database/h2
-	testImplementation 'com.h2database:h2:2.2.224'
+	implementation 'com.h2database:h2:2.2.224'
 
 
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
